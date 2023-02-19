@@ -1,0 +1,48 @@
+body{
+    margin: 0px 20%;  
+    background-image: url("https://png.pngtree.com/background/20210714/original/pngtree-old-newspaper-vector-picture-image_1191857.jpg");
+}
+
+.inicio{
+ border-top: 2px, solid, black;
+}
+
+
+
+h1,h2,h3{
+text-align: center;
+font-family: Old English Text MT;
+}
+
+head{
+margin: 4px;
+height: 10px;
+}
+
+#divder{
+    width: 50%;
+}
+
+#divizq{
+    width: 50%;
+    margin-top: -745px;
+    margin-left: 50%;
+}
+
+.box1{
+    background-color:transparent; 
+}
+
+.box2{
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+#img1{
+    width: 100%;
+    height: auto;
+}
+
+#divder1{
+    width: 50%;
+}
